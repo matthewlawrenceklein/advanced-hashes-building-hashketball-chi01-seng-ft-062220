@@ -62,7 +62,7 @@ the_game = {
       :slam_dunks => 1,
     },
     ],
-  }
+  },
 
   :away
   {
