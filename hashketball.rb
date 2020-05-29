@@ -15,7 +15,7 @@ the_game = {
       :assists => 12,
       :steals => 3,
       :blocks => 1,
-      :slam_dunks => 1, 
+      :slam_dunks => 1,
     },
     {
       :player_name => "Reggie Evans",
@@ -37,7 +37,7 @@ the_game = {
       :assists =>,
       :steals =>,
       :blocks =>,
-      :slam_dunks =>, 
+      :slam_dunks =>,
     },
     {
       :player_name => "",
@@ -48,7 +48,7 @@ the_game = {
       :assists =>,
       :steals =>,
       :blocks =>,
-      :slam_dunks =>, 
+      :slam_dunks =>,
     },
     {
       :player_name => "",
@@ -59,7 +59,7 @@ the_game = {
       :assists =>,
       :steals =>,
       :blocks =>,
-      :slam_dunks =>, 
+      :slam_dunks =>,
     },
     ],
   }
@@ -88,7 +88,7 @@ the_game = {
 
 
 
-  
+
   :away
   {
     :team_name => [],
@@ -102,9 +102,9 @@ the_game = {
       :assists =>,
       :steals =>,
       :blocks =>,
-      :slam_dunks =>, 
+      :slam_dunks =>,
     ],
-  }  
+  }
 }
 
 return the_game
