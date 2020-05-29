@@ -102,7 +102,7 @@ the_game = {
       :slam_dunks => 5,
     },
     {
-      :player_name => "Ben Gordan",
+      :player_name => "Ben Gordon",
       :number => 8,
       :shoe => 15,
       :points => 33,
